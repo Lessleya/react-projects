@@ -1,0 +1,17 @@
+:root{
+    --primarycolor: #00BEE8;
+    --secondarycolor: #A1E7FD;
+    --emphasisycolor: #FACA22;
+    --spiritualcolor: #FFDA92;
+    --intelectualcolor:#9EE0D8;
+    --socialcolor:#BBE09E;
+    --phisicalcolor:#A1E7FD;
+    --white: white; 
+}
+
+.header {
+    background-color: var(--primarycolor);
+    color: white;
+    display: flex;
+
+}
